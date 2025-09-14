@@ -1,6 +1,6 @@
 # Taxi Charge Calculator
 
-**Python | OOP**
+**Python**
 
 This is a console-based Python application simulating role-based access:
 
